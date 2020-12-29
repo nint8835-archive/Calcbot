@@ -11,6 +11,15 @@
         }
       },
       {
+        "package": "SoulverCore",
+        "repositoryURL": "https://github.com/soulverteam/SoulverCore",
+        "state": {
+          "branch": "master",
+          "revision": "9c806dc8006530b4c7d80c37bfe8690bf83e5eb3",
+          "version": null
+        }
+      },
+      {
         "package": "Starscream",
         "repositoryURL": "https://github.com/Azoy/Starscream.git",
         "state": {
